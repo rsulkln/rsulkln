@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm rasol</h1>
 <h3 align="center">🏴󠁧󠁢󠁥󠁮󠁧󠁿I am an Iranian backend programmer.🇩🇪Ich bin ein iranischer Backend-Programmierer.</h3>
-‹img align-"right" alt-"sheikh" width = "400" src='https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif'>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsulkln&label=Profile%20views&color=0e75b6&style=flat" alt="rsulkln" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsulkln" alt="rsulkln" /></a> </p>
-
+<img align = "right" alt = "rasol" width = "400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" >
 - 🔭 I’m currently working on **On a project about me, my city**
 
 - 🌱 I’m currently learning **Django & SQL**
@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://instagram.com/rsulpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rsulpv" height="30" width="40" /></a>
 </p>
+<img align = "right" alt = "rasol" width = "400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
