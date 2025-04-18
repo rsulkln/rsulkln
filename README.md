@@ -7,7 +7,7 @@
 <img align = "right" alt = "rasol" width = "400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" >
 - 🔭 I’m currently working on **On a project about me, my city**
 
-- 🌱 I’m currently learning **Django & SQL** & <h3>Docker & git<\h3> 
+- 🌱 I’m currently learning **Django & SQL** & Docker & git
 
 - 👨‍💻 All of my projects are available at [https://github.com/rsulkln/rsulkln-py.git](https://github.com/rsulkln/rsulkln-py.git)
 
