@@ -17,8 +17,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/rsulpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rsulpv" height="30" width="40" /></a>
-<a href="[https://instagram.com/rsulpv](https://www.linkedin.com/in/rasol-kalantari?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="blank">
+
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rasol-kalantari?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="rasol-kalantari" height="30" width="40" />
+  </a>
+</p>
+
+
 </p>
 <img align = "right" alt = "rasol" width = "200" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
