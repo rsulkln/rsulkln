@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm rasol</h1>
-<h3 align="center">🏴󠁧󠁢󠁥󠁮󠁧󠁿I am an Iranian backend programmer.🇩🇪Ich bin ein iranischer Backend-Programmierer.</h3>
+<h1 align="center">Hi 👋,\n I'm rasol</h1>
+<h3 align="center">Wellcome to my github</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsulkln&label=Profile%20views&color=0e75b6&style=flat" alt="rsulkln" /> </p>
 
