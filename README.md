@@ -4,16 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsulkln&label=Profile%20views&color=0e75b6&style=flat" alt="rsulkln" /> </p>
 <img align = "right" alt = "rasol" width = "400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" >
 
-
-- 🔭 I’m currently working on a project about my city "kerman"
-
-- 🌱 I’m currently learning **Django & SQL** & Docker & git
-
-- 👨‍💻 All of my projects are available at [https://github.com/rsulkln/rsulkln-py.git](https://github.com/rsulkln/rsulkln-py.git)
-
-- 💬 Ask me about **You can ask me any questions about Python and Django.**
-
-- 📫 How to reach me **imrkalantari@gmail.com**
+<p align="left">
+💻 I'm a **Software Engineer** passionate about building scalable backend systems.  
+🔵 I specialize in **Golang** and **gRPC** for high-performance applications.  
+🗄️ I work with **SQL (PostgreSQL)**, **NoSQL (MongoDB)**, and use **Redis** for caching.  
+🧠 Strong knowledge of **data structures, algorithms, and design patterns**.  
+🐳 Familiar with **DevOps tools** like Linux, Docker, and Kubernetes.
+</p>
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
