@@ -15,9 +15,6 @@
 
 - 📫 How to reach me **imrkalantari@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
   <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- LinkedIn -->
