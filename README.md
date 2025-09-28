@@ -1,7 +1,7 @@
 <h1 align="center">👋,I'm rasol</h1>
 <h3 align="center">Wellcome to my github</h3>
 
-// <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsulkln&label=Profile%20views&color=0e75b6&style=flat" alt="rsulkln" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=rsulkln](https://github-profile-trophy.vercel.app/?username=rsulkln)" alt="rsulkln" /></a> </p>
 <img align = "right" alt = "rasol" width = "400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" >
