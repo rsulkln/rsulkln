@@ -34,7 +34,7 @@
 
 
 </p>
-<img align = "right" alt = "rasol" width = "200" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
