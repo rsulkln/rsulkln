@@ -20,6 +20,7 @@
 
   <h3 align="left">Connect with me:</h3>
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rasol-kalantari?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
@@ -29,7 +30,7 @@
 
   <!-- Gmail -->
   <a href="mailto:imrkalantari@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
          alt="imrkalantari@gmail.com" height="30" width="40" />
   </a>
 </p>
