@@ -5,11 +5,11 @@
 <img align = "right" alt = "rasol" width = "400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" >
 
 <p align="left">
-💻 I'm a **Software Engineer** passionate about building scalable backend systems.  </br>
-🔵 I specialize in **Golang** and **gRPC** for high-performance applications.  </br>
-🗄️ I work with **SQL (PostgreSQL)**, **NoSQL (MongoDB)**, and use **Redis** for caching.  </br>
-🧠 Strong knowledge of **data structures, algorithms, and design patterns**.  </br>
-🐳 Familiar with **DevOps tools** like Linux, Docker, and Kubernetes.  </br>
+💻 I'm a **Software Engineer** passionate about building scalable backend systems.  </br></br>
+🔵 I specialize in **Golang** and **gRPC** for high-performance applications.  </br></br>
+🗄️ I work with **SQL (PostgreSQL)**, **NoSQL (MongoDB)**, and use **Redis** for caching.  </br></br>
+🧠 Strong knowledge of **data structures, algorithms, and design patterns**.  </br></br>
+🐳 Familiar with **DevOps tools** like Linux, Docker, and Kubernetes.  </br></br>
 </p>
 
   <h3 align="left">Connect with me:</h3>
