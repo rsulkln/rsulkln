@@ -7,7 +7,7 @@
 <p align="left">
 💻 I'm a **Software Engineer** passionate about building scalable backend systems.  </br></br>
 🔵 I specialize in **Golang** and **gRPC** for high-performance applications.  </br></br>
-🗄️ I work with **SQL (PostgreSQL)**, **NoSQL (MongoDB)**, and use **Redis** for caching.  </br></br>
+🗄️ I work with SQL (PostgreSQL) and NoSQL (MongoDB) databases, use Redis for caching, and RabbitMQ as a message broker.  </br></br>
 🧠 Strong knowledge of **data structures, algorithms, and design patterns**.  </br></br>
 🐳 Familiar with **DevOps tools** like Linux, Docker, and Kubernetes.  </br></br>
 </p>
